@@ -1,1 +1,1 @@
-# shapeAI_Pythhon_Machine_Learning
+SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP
